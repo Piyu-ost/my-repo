@@ -1,0 +1,1 @@
+print('eat and sleep')
